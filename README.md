@@ -7,3 +7,7 @@ Requirements:
 1. UID and GID must be identical with the old server.
 2. If point 1 is not fulfilled, the UID and GID must be changed to avoid ownership issues.
 3. Migrated users are non-system accounts.
+
+Script:
+move.sh => running on old serevr
+migration.sh => running on new server
