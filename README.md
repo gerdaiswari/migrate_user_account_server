@@ -9,5 +9,5 @@ Requirements:
 3. Migrated users are non-system accounts.
 
 Script:
-move.sh => running on old serevr
+move.sh => running on old server
 migration.sh => running on new server
